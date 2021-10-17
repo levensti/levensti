@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Steven
-- 👀 I’m curious about pretty much everything, but mainly payments/DeFi and technology that empowers SMBs
-- 🌱 By trade, I'm a software engineer (most recently at Facebook) but also write a tech blog at Forbes.
-- 📫 You can reach me at levensti [at] gmail [dot] com
+- 👋 Hi, I’m Steven. Thanks for spending some time here.
+- 🌱 By trade, I'm a software engineer. I've shipped code at Facebook, Instagram, Amazon, Zoom, Capital One, and for some of my own endeavors.
+- 📫 Feel free to reach out at levensti [at] gmail [dot] com.
 
 <!---
 levensti/levensti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
